@@ -1,0 +1,11 @@
+[
+    {"id":0,"name":"TV","genre":"electronics","price":565,"quantity":15,"image":"./images/tv.jpeg"},
+    {"id":1,"name":"Phone","genre":"electronics","price":95,"quantity":15,"image":"./images/phone.jpeg"},
+    {"id":2,"name":"PS4","genre":"electronics","price":265,"quantity":15,"image":"./images/ps4.jpeg"},
+    {"id":3,"name":"Switch","genre":"electronics","price":185,"quantity":15,"image":"./images/switch.jpeg"},
+    {"id":4,"name":"Shoes","genre":"outdoor","price":175,"quantity":15,"image":"./images/shoes.jpeg"},
+    {"id":5,"name":"Necklace","genre":"jewelry","price":220,"quantity":15,"image":"./images/necklace.jpeg"},
+    {"id":6,"name":"Beer","genre":"drink","price":8,"quantity":15,"image":"./images/beer.jpeg"},
+    {"id":6,"name":"Surf","genre":"sport","price":145,"quantity":15,"image":"./images/surf.jpeg"}
+
+]
