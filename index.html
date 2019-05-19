@@ -5,12 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel='stylesheet' href="style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
     <title>Shopping Cart SPA</title>
 </head>
 <body>
     <div class='nav'>
         <div class='nav-content'>
-            <h4>Site Logo</h4>
+            <h4>See <i class="fas fa-shopping-cart"></i></h4>
             <h2>THe NAV</h2>
             <ul class='nav-links'>
                 <li class='nav-item'>
@@ -49,9 +50,11 @@
     <div class='shopping-cart'>
         <h3>Shopping Cart</h3>
         <h5>Your products...</h5>
-        <li>TV       quantity:2</li>
-        <li>PS4      quantity:3</li>
-        <h5>Total:$650</h5>
+        <ul id='boughtitemslist'>
+
+        </ul>
+       
+        <h5>Total:<span id='total'></span></h5>
     </div>
 
 

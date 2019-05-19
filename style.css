@@ -38,6 +38,7 @@
     border:1px solid black;
     border-radius:25%;
     transition:1s ease;
+    cursor:pointer;
 
 }
 
